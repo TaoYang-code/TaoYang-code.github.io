@@ -1,0 +1,35 @@
+{
+  "page": "Contact",
+  "texts": [
+    {
+      "field": "text-1",
+      "text": "Contact"
+    },
+    {
+      "field": "text-2",
+      "text": "For academic opportunities and research collaboration in infrastructure digitalisation, digital twins, and AI-enabled civil engineering."
+    }
+  ],
+  "links": [
+    {
+      "field": "link-1",
+      "label": "Google Scholar ↗",
+      "url": "https://scholar.google.com/citations?user=DIgNqW0AAAAJ&hl=en"
+    },
+    {
+      "field": "link-2",
+      "label": "ORCID ↗",
+      "url": "https://orcid.org/0000-0002-8576-0126"
+    },
+    {
+      "field": "link-3",
+      "label": "GitHub ↗",
+      "url": "https://github.com/TaoYang-code"
+    },
+    {
+      "field": "link-4",
+      "label": "tyan632@aucklanduni.ac.nz ↗",
+      "url": "mailto:tyan632@aucklanduni.ac.nz"
+    }
+  ]
+}

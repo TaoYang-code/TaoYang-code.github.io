@@ -1,0 +1,425 @@
+{
+  "page": "Publications",
+  "texts": [
+    {
+      "field": "text-1",
+      "text": "Publications"
+    },
+    {
+      "field": "text-2",
+      "text": "Journal articles (13)"
+    },
+    {
+      "field": "text-3",
+      "text": "A physics-guided generative framework for parameter-conditioned seismic damage visualization of bridge piers"
+    },
+    {
+      "field": "text-4",
+      "text": "J Zhong, H Xing, T Yang, H Wang, X Zhu"
+    },
+    {
+      "field": "text-5",
+      "text": "A point cloud dataset and deep learning framework for semantic segmentation of construction site point clouds"
+    },
+    {
+      "field": "text-6",
+      "text": "H Yue, Q Wang, MY Gao, T Yang, L Li, K Chen, M Wang"
+    },
+    {
+      "field": "text-7",
+      "text": "Enhancing Scan-to-BIM for reinforced concrete bridges using point cloud completion techniques"
+    },
+    {
+      "field": "text-8",
+      "text": "T Yang, Y Zou, E del Rey Castillo, L Hou, J Zhong"
+    },
+    {
+      "field": "text-9",
+      "text": "Hybrid semantic segmentation framework for reinforced concrete bridge point clouds"
+    },
+    {
+      "field": "text-10",
+      "text": "T Yang, Y Zou, E del Rey Castillo, R Chang, J Zhong"
+    },
+    {
+      "field": "text-11",
+      "text": "Structural prior knowledge-guided point cloud classification of reinforced concrete bridge components"
+    },
+    {
+      "field": "text-12",
+      "text": "T Yang, Y Zou, E del Rey Castillo"
+    },
+    {
+      "field": "text-13",
+      "text": "An Efficient Method for Predicting the Residual Displacement of UBPRC Columns under Near-fault Ground Motions"
+    },
+    {
+      "field": "text-14",
+      "text": "Jian Zhong, Yuanyuan Wei, Yahui Shao, Tao Yang, Xiaoxian Liu"
+    },
+    {
+      "field": "text-15",
+      "text": "Domain Knowledge-enhanced Region Growing Framework for Semantic Segmentation of Bridge Point Clouds"
+    },
+    {
+      "field": "text-16",
+      "text": "Tao Yang, Yang Zou, Xiaofei Yang, Enrique del Rey Castillo"
+    },
+    {
+      "field": "text-17",
+      "text": "Near-fault pulse seismic ductility spectra for bridge columns based on machine learning"
+    },
+    {
+      "field": "text-18",
+      "text": "T Yang, X Yuan, J Zhong, W Yuan"
+    },
+    {
+      "field": "text-19",
+      "text": "Potential bias of conventional structural seismic fragility for bridge structures under pulse-like ground motions: Bias evaluation and strategy improvement"
+    },
+    {
+      "field": "text-20",
+      "text": "T Yang, Y Wei, J Zhong"
+    },
+    {
+      "field": "text-21",
+      "text": "A novel structure-pulse coupled model for quantifying the column ductility demand under pulse-like GMs"
+    },
+    {
+      "field": "text-22",
+      "text": "J Zhong, T Yang, Y Pang, W Yuan"
+    },
+    {
+      "field": "text-23",
+      "text": "Probabilistic seismic demand model of UBPRC columns conditioned on Pulse-Structure parameters"
+    },
+    {
+      "field": "text-24",
+      "text": "J Zhong, L Shi, T Yang, X Liu, Y Wang"
+    },
+    {
+      "field": "text-25",
+      "text": "Quantifying the impact of normalized period on seismic demand model of ductile columns under pulse-like ground motions"
+    },
+    {
+      "field": "text-26",
+      "text": "J Zhong, T Yang, W Wang"
+    },
+    {
+      "field": "text-27",
+      "text": "Empirical models of bridge seismic fragility surface considering the vertical effect of near-fault ground motions"
+    },
+    {
+      "field": "text-28",
+      "text": "Y Shao, Y Wei, T Yang, M Ni, J Zhong"
+    },
+    {
+      "field": "text-29",
+      "text": "Conference papers (3)"
+    },
+    {
+      "field": "text-30",
+      "text": "Human Preference-Aligned Construction Scheduling using Reinforcement Learning and Direct Preference Optimization"
+    },
+    {
+      "field": "text-31",
+      "text": "AK Agrawal, Y Zou, T Yang"
+    },
+    {
+      "field": "text-32",
+      "text": "Knowledge-Enhanced Point Cloud Classification Model for Bridge Components"
+    },
+    {
+      "field": "text-33",
+      "text": "T Yang, Y Zou, E del Rey Castillo, W Chen, AK Agrawal"
+    },
+    {
+      "field": "text-34",
+      "text": "Enhancing Scan-to-BIM in Bridge Engineering through Point Cloud Completion"
+    },
+    {
+      "field": "text-35",
+      "text": "T Yang, Y Zou, E del Rey Castillo"
+    },
+    {
+      "field": "text-36",
+      "text": "Doctoral thesis (1)"
+    },
+    {
+      "field": "text-37",
+      "text": "Enhancing Scan-to-BIM for RC Girder Bridges through Knowledge-guided Point Cloud Segmentation and Occlusion-aware Point Cloud Completion"
+    },
+    {
+      "field": "text-38",
+      "text": "T Yang"
+    },
+    {
+      "field": "text-39",
+      "text": "Granted Patents (2)"
+    },
+    {
+      "field": "text-40",
+      "text": "A Rapid Method for Estimating the Longitudinal Reinforcement Ratio of Ductile Bridge Piers under Near-Fault Earthquakes"
+    },
+    {
+      "field": "text-41",
+      "text": "J. Zhong, Y. W. Shu, T. Yang & Y. T. Zhu"
+    },
+    {
+      "field": "text-42",
+      "text": "A Parametric Analysis Method for Determining the Sectional Performance of Structural Members"
+    },
+    {
+      "field": "text-43",
+      "text": "J. Zhong, M. Ni, X. Li, T. Yang, Y. Y. Wei & W. Wang"
+    },
+    {
+      "field": "text-44",
+      "text": "Advances in Engineering Software 223, 104320, 2026"
+    },
+    {
+      "field": "text-45",
+      "text": "Computer-Aided Civil and Infrastructure Engineering, 100050, 2026"
+    },
+    {
+      "field": "text-46",
+      "text": "Automation in Construction 181, 106606, 2026"
+    },
+    {
+      "field": "text-47",
+      "text": "Automation in Construction 192, 107255, 2026"
+    },
+    {
+      "field": "text-48",
+      "text": "Automation in Construction 192, 107266, 2026"
+    },
+    {
+      "field": "text-49",
+      "text": "Journal of Earthquake Engineering, 2023"
+    },
+    {
+      "field": "text-50",
+      "text": "Automation in Construction, 2024"
+    },
+    {
+      "field": "text-51",
+      "text": "Soil Dynamics and Earthquake Engineering 164, 107582, 2023"
+    },
+    {
+      "field": "text-52",
+      "text": "Soil Dynamics and Earthquake Engineering 166, 107787, 2023"
+    },
+    {
+      "field": "text-53",
+      "text": "Journal of Earthquake Engineering 26 (15), 8185-8203, 2022"
+    },
+    {
+      "field": "text-54",
+      "text": "Engineering Structures 270, 114829, 2022"
+    },
+    {
+      "field": "text-55",
+      "text": "Bulletin of Earthquake Engineering 20 (12), 6789-6812, 2022"
+    },
+    {
+      "field": "text-56",
+      "text": "Structures 34, 2962-2973, 2021"
+    },
+    {
+      "field": "text-57",
+      "text": "43rd International Symposium for Automation and Robotics in Construction, 2026"
+    },
+    {
+      "field": "text-58",
+      "text": "43rd International Symposium for Automation and Robotics in Construction, 2026"
+    },
+    {
+      "field": "text-59",
+      "text": "Proceedings of The Sixth International Confer 22, 82-93, 2025"
+    },
+    {
+      "field": "text-60",
+      "text": "University of Auckland, 2026"
+    },
+    {
+      "field": "text-61",
+      "text": "Chinese invention patent · ZL 2023 1 0165496.7Granted: May 2023"
+    },
+    {
+      "field": "text-62",
+      "text": "Chinese invention patent · ZL 2021 1 0708968.XGranted: October 2022"
+    }
+  ],
+  "links": [
+    {
+      "field": "link-1",
+      "label": "All publications on Google Scholar ↗",
+      "url": "https://scholar.google.com/citations?user=DIgNqW0AAAAJ&hl=en"
+    },
+    {
+      "field": "link-2",
+      "label": "DOI",
+      "url": "https://doi.org/10.1016/j.advengsoft.2026.104320"
+    },
+    {
+      "field": "link-3",
+      "label": "↗",
+      "url": "https://doi.org/10.1016/j.advengsoft.2026.104320"
+    },
+    {
+      "field": "link-4",
+      "label": "DOI",
+      "url": "https://doi.org/10.1016/j.cacaie.2026.100050"
+    },
+    {
+      "field": "link-5",
+      "label": "↗",
+      "url": "https://doi.org/10.1016/j.cacaie.2026.100050"
+    },
+    {
+      "field": "link-6",
+      "label": "DOI",
+      "url": "https://doi.org/10.1016/j.autcon.2025.106606"
+    },
+    {
+      "field": "link-7",
+      "label": "↗",
+      "url": "https://doi.org/10.1016/j.autcon.2025.106606"
+    },
+    {
+      "field": "link-8",
+      "label": "DOI",
+      "url": "https://doi.org/10.1016/j.autcon.2026.107255"
+    },
+    {
+      "field": "link-9",
+      "label": "↗",
+      "url": "https://doi.org/10.1016/j.autcon.2026.107255"
+    },
+    {
+      "field": "link-10",
+      "label": "DOI",
+      "url": "https://doi.org/10.1016/j.autcon.2026.107266"
+    },
+    {
+      "field": "link-11",
+      "label": "↗",
+      "url": "https://doi.org/10.1016/j.autcon.2026.107266"
+    },
+    {
+      "field": "link-12",
+      "label": "DOI",
+      "url": "https://doi.org/10.1080/13632469.2023.2234500"
+    },
+    {
+      "field": "link-13",
+      "label": "↗",
+      "url": "https://doi.org/10.1080/13632469.2023.2234500"
+    },
+    {
+      "field": "link-14",
+      "label": "DOI",
+      "url": "https://doi.org/10.1016/j.autcon.2024.105572"
+    },
+    {
+      "field": "link-15",
+      "label": "↗",
+      "url": "https://doi.org/10.1016/j.autcon.2024.105572"
+    },
+    {
+      "field": "link-16",
+      "label": "DOI",
+      "url": "https://doi.org/10.1016/j.soildyn.2022.107582"
+    },
+    {
+      "field": "link-17",
+      "label": "↗",
+      "url": "https://doi.org/10.1016/j.soildyn.2022.107582"
+    },
+    {
+      "field": "link-18",
+      "label": "DOI",
+      "url": "https://doi.org/10.1016/j.soildyn.2023.107787"
+    },
+    {
+      "field": "link-19",
+      "label": "↗",
+      "url": "https://doi.org/10.1016/j.soildyn.2023.107787"
+    },
+    {
+      "field": "link-20",
+      "label": "DOI",
+      "url": "https://doi.org/10.1080/13632469.2021.1989348"
+    },
+    {
+      "field": "link-21",
+      "label": "↗",
+      "url": "https://doi.org/10.1080/13632469.2021.1989348"
+    },
+    {
+      "field": "link-22",
+      "label": "DOI",
+      "url": "https://doi.org/10.1016/j.engstruct.2022.114829"
+    },
+    {
+      "field": "link-23",
+      "label": "↗",
+      "url": "https://doi.org/10.1016/j.engstruct.2022.114829"
+    },
+    {
+      "field": "link-24",
+      "label": "DOI",
+      "url": "https://doi.org/10.1007/s10518-022-01477-x"
+    },
+    {
+      "field": "link-25",
+      "label": "↗",
+      "url": "https://doi.org/10.1007/s10518-022-01477-x"
+    },
+    {
+      "field": "link-26",
+      "label": "DOI",
+      "url": "https://doi.org/10.1016/j.istruc.2021.09.021"
+    },
+    {
+      "field": "link-27",
+      "label": "↗",
+      "url": "https://doi.org/10.1016/j.istruc.2021.09.021"
+    },
+    {
+      "field": "link-28",
+      "label": "DOI",
+      "url": "https://doi.org/10.22260/ISARC2026/0142"
+    },
+    {
+      "field": "link-29",
+      "label": "↗",
+      "url": "https://doi.org/10.22260/ISARC2026/0142"
+    },
+    {
+      "field": "link-30",
+      "label": "DOI",
+      "url": "https://doi.org/10.22260/ISARC2026/0224"
+    },
+    {
+      "field": "link-31",
+      "label": "↗",
+      "url": "https://doi.org/10.22260/ISARC2026/0224"
+    },
+    {
+      "field": "link-32",
+      "label": "DOI",
+      "url": "https://doi.org/10.29007/sntk"
+    },
+    {
+      "field": "link-33",
+      "label": "↗",
+      "url": "https://doi.org/10.29007/sntk"
+    },
+    {
+      "field": "link-34",
+      "label": "↗",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DIgNqW0AAAAJ&pagesize=100&citation_for_view=DIgNqW0AAAAJ:8k81kl-MbHgC"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "page": "Teaching",
+  "texts": [
+    {
+      "field": "text-1",
+      "text": "Teaching & Mentoring"
+    },
+    {
+      "field": "text-2",
+      "text": "Teaching Experience"
+    },
+    {
+      "field": "text-3",
+      "text": "2023–2024"
+    },
+    {
+      "field": "text-4",
+      "text": "Graduate Teaching Assistant · CIVIL 743: Building Information Modelling"
+    },
+    {
+      "field": "text-5",
+      "text": "The University of Auckland, New Zealand"
+    },
+    {
+      "field": "text-6",
+      "text": "Supported BIM tutorials and computer-based laboratory sessions across two course offerings, guided students in BIM modelling, assessed coursework, and provided constructive feedback."
+    },
+    {
+      "field": "text-7",
+      "text": "2022"
+    },
+    {
+      "field": "text-8",
+      "text": "Teaching Support · CIVIL 305: Construction Informatics"
+    },
+    {
+      "field": "text-9",
+      "text": "The University of Auckland, New Zealand"
+    },
+    {
+      "field": "text-10",
+      "text": "Assisted field-based teaching in terrestrial laser scanning, engineering data acquisition, and point cloud processing."
+    },
+    {
+      "field": "text-11",
+      "text": "Student Research Mentoring"
+    },
+    {
+      "field": "text-12",
+      "text": "2026"
+    },
+    {
+      "field": "text-13",
+      "text": "Master’s Research · Computer Vision-based Bridge Damage Assessment"
+    },
+    {
+      "field": "text-14",
+      "text": "Hefei University of Technology, China"
+    },
+    {
+      "field": "text-15",
+      "text": "Assisted research supervision of Honghao Xing and Yushu Luo; the research resulted in two academic papers."
+    },
+    {
+      "field": "text-16",
+      "text": "2025"
+    },
+    {
+      "field": "text-17",
+      "text": "Undergraduate Research · 3D Gaussian Splatting for Building Point Clouds"
+    },
+    {
+      "field": "text-18",
+      "text": "TH Köln, Germany"
+    },
+    {
+      "field": "text-19",
+      "text": "Mentored Richard’s bachelor’s thesis research; the thesis was awarded A+."
+    },
+    {
+      "field": "text-20",
+      "text": "2025"
+    },
+    {
+      "field": "text-21",
+      "text": "Undergraduate Research · Virtual Laser Scanning for Bridge Point Clouds"
+    },
+    {
+      "field": "text-22",
+      "text": "Hefei University of Technology, China"
+    },
+    {
+      "field": "text-23",
+      "text": "Mentored Chenchen Gao’s graduation project on virtual laser scanning for bridge point cloud generation."
+    }
+  ],
+  "links": []
+}

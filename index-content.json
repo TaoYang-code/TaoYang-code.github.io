@@ -1,0 +1,170 @@
+{
+  "page": "Bio",
+  "texts": [
+    {
+      "field": "text-1",
+      "text": "Tao Yang, PhD"
+    },
+    {
+      "field": "text-2",
+      "text": "About Me"
+    },
+    {
+      "field": "text-3",
+      "text": "My research lies at the intersection of civil engineering, digital construction, and artificial intelligence. I obtained my PhD in Civil Engineering from the University of Auckland, New Zealand."
+    },
+    {
+      "field": "text-4",
+      "text": "My current research integrates engineering knowledge, point cloud processing, and deep learning to create reliable digital representations of existing infrastructure. I focus on knowledge-guided Scan-to-BIM, including bridge component recognition and point cloud completion, and its extension towards continuous model updating and infrastructure digital twins."
+    },
+    {
+      "field": "text-5",
+      "text": "My long-term vision is to develop intelligent, adaptive, and human-supervised infrastructure digital twins that connect engineering models, knowledge, and AI to support inspection, maintenance, and decision-making throughout the infrastructure lifecycle, contributing to a safer and more resilient built environment."
+    },
+    {
+      "field": "text-6",
+      "text": "Research Interests"
+    },
+    {
+      "field": "text-7",
+      "text": "Education"
+    },
+    {
+      "field": "text-8",
+      "text": "Sep 2022 – Aug 2026"
+    },
+    {
+      "field": "text-9",
+      "text": "PhD in Civil Engineering"
+    },
+    {
+      "field": "text-10",
+      "text": "The University of Auckland, New Zealand"
+    },
+    {
+      "field": "text-11",
+      "text": "Thesis: Enhancing Scan-to-BIM for RC Girder Bridges through Knowledge-guided Point Cloud Segmentation and Occlusion-aware Point Cloud Completion"
+    },
+    {
+      "field": "text-12",
+      "text": "Supervisors: Professor Yang Zou and Dr Enrique del Rey Castillo"
+    },
+    {
+      "field": "text-13",
+      "text": "Sep 2019 – Jun 2022"
+    },
+    {
+      "field": "text-14",
+      "text": "MSc in Civil Engineering"
+    },
+    {
+      "field": "text-15",
+      "text": "Hefei University of Technology, China"
+    },
+    {
+      "field": "text-16",
+      "text": "Research on structural–pulse coupled parameters and the seismic response of bridge columns in near-fault regions. Supervisor: Professor Jian Zhong."
+    },
+    {
+      "field": "text-17",
+      "text": "Sep 2014 – Jun 2018"
+    },
+    {
+      "field": "text-18",
+      "text": "BEng in Transportation Engineering"
+    },
+    {
+      "field": "text-19",
+      "text": "Hebei University of Engineering, China"
+    },
+    {
+      "field": "text-20",
+      "text": "Experience"
+    },
+    {
+      "field": "text-21",
+      "text": "From Dec 2026"
+    },
+    {
+      "field": "text-22",
+      "text": "Research Fellow Incoming"
+    },
+    {
+      "field": "text-23",
+      "text": "Nanyang Technological University, Singapore"
+    },
+    {
+      "field": "text-24",
+      "text": "AI-driven digitalisation and management of civil infrastructure."
+    },
+    {
+      "field": "text-25",
+      "text": "2023–2024"
+    },
+    {
+      "field": "text-26",
+      "text": "Graduate Teaching Assistant"
+    },
+    {
+      "field": "text-27",
+      "text": "The University of Auckland, New Zealand"
+    },
+    {
+      "field": "text-28",
+      "text": "CIVIL 743: Building Information Modelling — tutorials, computer-based laboratories, and coursework assessment."
+    },
+    {
+      "field": "text-29",
+      "text": "Jul – Sep 2021"
+    },
+    {
+      "field": "text-30",
+      "text": "Bridge Design Intern"
+    },
+    {
+      "field": "text-31",
+      "text": "Anhui Transportation Survey and Design Co., Ltd., China"
+    },
+    {
+      "field": "text-32",
+      "text": "Jun – Aug 2015"
+    },
+    {
+      "field": "text-33",
+      "text": "Construction Intern"
+    },
+    {
+      "field": "text-34",
+      "text": "Guangde Second Construction Co., Ltd., China"
+    },
+    {
+      "field": "text-35",
+      "text": "Intelligent infrastructure digitalisation: engineering knowledge-guided Scan-to-BIM, point cloud understanding and completion, and continuous model updating using LiDAR, imagery, and AI."
+    },
+    {
+      "field": "text-36",
+      "text": "Infrastructure digital twins: connecting digital models with inspection information and asset conditions to support assessment, maintenance, and lifecycle management."
+    },
+    {
+      "field": "text-37",
+      "text": "Knowledge-grounded AI for engineering: AI agents and multi-agent workflows that connect engineering models, standards, records, and analytical tools for human-supervised decision support."
+    }
+  ],
+  "links": [
+    {
+      "field": "link-1",
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=DIgNqW0AAAAJ&hl=en"
+    },
+    {
+      "field": "link-2",
+      "label": "ORCID",
+      "url": "https://orcid.org/0000-0002-8576-0126"
+    },
+    {
+      "field": "link-3",
+      "label": "GitHub",
+      "url": "https://github.com/TaoYang-code"
+    }
+  ]
+}
